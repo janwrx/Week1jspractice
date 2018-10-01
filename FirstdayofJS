@@ -1,0 +1,18 @@
+<html><head style="
+    color: coral;
+"><script src="firstDay.js">
+</script>
+</head><body style="
+    color:  coral;
+    font-family: monospace;
+    /* border: 5px dotted blue; */
+    /* border-radius: 20px; */
+    background-color: gray;
+"><h1 style="background-color: yellow;border: 5px dotted blue;border-radius: 20px;padding: 5px;padding-left: 15px;"> Janice and Eric's first Project</h1>
+
+    <p style="
+    text-align: center;
+">hello</p>
+   <img src="corgibutt.JPG" width="400px" style="/* text-align:  center; */border: 3px solid yellow;border-radius: 20px;/* margin-left: auto; *//* margin-right: auto; *//* margin: 0 auto; */display:  block;margin-left: auto;margin-right: auto;">
+
+</body></html>
